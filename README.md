@@ -1,6 +1,5 @@
 <div align=center>
-
-![Doriri's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeong-jang&count_private=true&show_icons=true&theme=radical&hide=contribs)
+![Doriri's GitHub stats](https://github-readme-stats-eta-eight-67.vercel.app/api?username=minhyeong-jang&count_private=true&show_icons=true&theme=radical&hide=contribs)
 
 </div>
 <div align=center>
